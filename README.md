@@ -9,5 +9,4 @@ Built with React.js, React Router and GSAP
 `npm run start`
 
 
-Design: https://dribbble.com/shots/8613233-Hamburger-Menu-Code-Provided
 
